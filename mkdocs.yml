@@ -1,0 +1,42 @@
+site_name:  Thomas' Digital Garden
+site_description: My collection of things I've learned.
+site_author: Thomas Hühn
+site_url: https://www.2uo.de
+copyright: Copyright &copy; Thomas Hühn
+
+theme: 
+  name: material
+  font: false
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: light)" 
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+        - navigation.top
+
+plugins:
+    - search:
+        lang: en
+    - minify:
+        minify_html: true
+        minify_js: true
+        minify_css: true
+        htmlmin_opts:
+            remove_comments: true
+      
+markdown_extensions:
+  - admonition
+  - toc:
+     permalink: true
+
+extra:
+    generator: false
+ 
