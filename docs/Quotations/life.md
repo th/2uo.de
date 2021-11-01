@@ -9,3 +9,10 @@
 
 !!! quote "[Margaret Thatcher](https://blogs.lse.ac.uk/politicsandpolicy/margaret-thatcher-and-the-rejection-of-consensus-a-rejection-of-democracy/)"
     The process of abandoning all beliefs, principles, values, and policies in search of something in which no one believes, but to which no one objects; the process of avoiding the very issues that have to be solved, merely because you cannot get agreement on the way ahead. What great cause would have been fought and won under the banner: ‘I stand for consensus?’
+
+!!! quote "[https://www.ksta.de/kultur/buehne-yoga-nach-dem-massaker-28994710?cb=1612715214845](https://www.ksta.de/kultur/buehne-yoga-nach-dem-massaker-28994710?cb=1612715214845)"
+    Toleranz definierte der Schriftsteller Patrick Süskind einst als „jenes lauwarme Gefühlsgemisch aus Ekel, Verachtung und Mitleid“.
+
+!!! quote "[Julia Kristeva in der FAZ](https://www.faz.net/aktuell/feuilleton/bilder-und-zeiten/interview/julia-kristeva-im-gespraech-sprich-ueber-deine-schatten-12171496.html?printPagedArticle=true#pageIndex_2)"
+    Eine weitere Sackgasse Europas ist der Hang zur Empörung, ein Wort, das inzwischen groß in Mode ist. In meinen Augen ist die Empörung romantisch, eine von Abwehr und Zorn geprägte und jugendlich-unreife Reaktion, die keine glaubwürdige Alternative benennt, weil sie keinerlei Interaktion mit dem anderen vorsieht. Sie denkt nicht an den anderen. Es ist eine Haltung, die zum Dogmatismus verleitet; sie ist ihrem Wesen nach totalitär und todbringend. Die Empörung ist eine europäische Sünde, ein negativer Narzissmus.  
+    (Translation: Another of Europe's dead ends is the inclination towards outrage, a word, that's very much in fashion now. In my eyes outrage is romantic, a reaction characterised by defense and wrath, and juvenile-immature. A reaction that doesn't offer a believable alternative, because it allows for no interaction with the other at all. It soes not think about the other. It is an attitude that lures towards dogmatism; it is by its nature totalitarian and deathly. Outrage is a European sin, a negative narcissism.)
