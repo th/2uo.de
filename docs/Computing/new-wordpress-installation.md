@@ -37,7 +37,8 @@ server {
         location /.well-known/acme-challenge {
 		root /var/www/thomas-huehn/html;
 	}
-      }
+}
+
 server {
         listen 80;
       	listen [::]:80;
