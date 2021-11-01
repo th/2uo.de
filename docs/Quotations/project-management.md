@@ -11,3 +11,6 @@
 
 !!! quote "[Douglas Adams, quoted in The Guardian, May 12th, 2002](https://www.theguardian.com/books/2002/may/12/fiction.douglasadams)"
     I love deadlines. I love the whooshing noise they make as they go by.
+
+!!! quote "Author unknown, quoted after Library of Congress: Respectfully quoted"
+    A committee is a group of the unwilling, chosen from the unfit, to do the unnecessary.
