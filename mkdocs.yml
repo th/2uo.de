@@ -2,7 +2,6 @@ site_name:  Thomas' Digital Garden
 site_description: My collection of things I've learned.
 site_author: Thomas Hühn
 site_url: https://www.2uo.de
-copyright: Copyright &copy 2014–2021; Thomas Hühn
 
 theme: 
   name: material
