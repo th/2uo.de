@@ -12,6 +12,8 @@ utf8mb4 is the “real” Unicode, MySQL is using an old, buggy own variant.
 
 The database name must not contain dashes (or those must be quoted).
 
+## Wordpress
+
 For Wordpress the following is my default choice:
 
 * Theme: Twenty Sixteen
