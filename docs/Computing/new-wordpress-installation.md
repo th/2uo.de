@@ -89,7 +89,7 @@ location ~ ^/wp-json/ {
  location / {
          return 301 https://www.thomas-huehn.de$request_uri;
 }
- ```
+```
  
  Then correct nginx configuration with redirect no-www to www and TLS:
  
