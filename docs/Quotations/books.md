@@ -4,7 +4,7 @@
     Von allen Arten sich Bücher zu verschaffen, wird als die rühmlichste betrachtet, sie selbst zu schreiben.  
     (Translation: Between all the ways to acquire books, writing them yourself is considered the most laudable one.)
 
-!!! quote "Charles W. Eliot, “The Happy Life“, 1910, quoted after Library of Congress: Respectfully quoted"
+!!! quote "Charles W. Eliot, “The Happy Life”, 1910, quoted after Library of Congress: Respectfully quoted"
     Books are the quietest and most constant of friends; they are the most accessible and wisest of councellors, and the most patient of teachers.
  
 !!! quote "Senator John F. Kennedy, Saturday Review, October 29th, 1960, quoted after Library of Congress: Respectfully quoted"
