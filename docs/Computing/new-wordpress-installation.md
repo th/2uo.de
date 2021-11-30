@@ -8,7 +8,7 @@ CREATE USER 'lindyhoppeln'@'localhost';
 GRANT ALL PRIVILEGES ON wp_lindyhoppeln.* To 'lindyhoppeln'@'localhost' IDENTIFIED BY 'passphrase';
 ```
 
-utf8mb4 is the “real” Unicode, MySQL is using an old, buggy own variant.
+utf8mb4 is the “real” Unicode. By default, MySQL is using an old, buggy own variant.
 
 The database name must not contain dashes (or those must be quoted).
 
