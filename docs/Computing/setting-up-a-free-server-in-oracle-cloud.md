@@ -25,7 +25,7 @@ Edit “Image and shape”. You want an Ampere instance, so set the check box ne
 
 You could probably go higher, but then you'll pay after the trial period. So keep it to the 4 OCPUs and 24 GB of RAM setting, which is within the free tier.
 
-The image doesn't matter much, since I will replace it later; Ubuntu or Oracle Linux are both fine.
+The image doesn't matter much, since you can replace it later; Ubuntu or Oracle Linux are both fine.
 
 ### Networking
 
@@ -45,22 +45,22 @@ Now paste a prepared SSH **public key** into the text field.
 
 If you don't already have one ready, install PuTTY and start PuTTYgen.
 
-![PuTTYgen](setting-up-a-free-server-in-oracle-puttygen-1.png)
+![PuTTYgen](setting-up-a-free-server-in-oracle-cloud-puttygen-1.png)
 
 Click “Generate”, move the mouse a bit, and then use the highlighted text as your SSH key in the Oracle Cloud dashboard.
 You should also save it in a text file somewhere.
 
-![PuTTYgen](setting-up-a-free-server-in-oracle-puttygen-2.png)
+![PuTTYgen](setting-up-a-free-server-in-oracle-cloud-puttygen-2.png)
 
 PuTTY saves the private key in its own format, that other tools won't be able to handle.
-So select “Conversions” – “Export OpenSSH key” and save the private key in OpenSSH format.
+So select “Conversions” – “Export OpenSSH key” and save the private key in OpenSSH format.
 
 **Don't lose that private key!**
 
 If you later need the public key again, but didn't save it, you can always load the private key (from PuTTY's own file format)
 and see the public key again in the top field.
 
-![PuTTYgen](setting-up-a-free-server-in-oracle-puttygen-3.png)
+![PuTTYgen](setting-up-a-free-server-in-oracle-cloud-puttygen-3.png)
 
 ### Finish
 
@@ -74,7 +74,7 @@ Your instance has got a boot volume (think: virtual hard disk) of 50 GB. You can
 
 The free tier allows you 200 GB, so let's use the missing 150GB!
 
-Go to the “Storage” section and select “Block Volumes”.
+Go to the “Storage” section and select “Block Volumes”.
 
 ![Storage](setting-up-a-free-server-in-oracle-cloud-menu-block-volume.png)
 
@@ -96,15 +96,15 @@ Select your newly created block volume and click “Attach”.
 
 ## Configure networking
  
- On to “Networking”!  Oracle has a default access list that blocks some traffic that I want to get rid of.
+On to “Networking”! Oracle has a default access list that blocks some traffic that you want to get rid of.
  
- If you've chosen Ubuntu as your image, don't you'll need to follow the instruction in [Firewall in Oracle Cloud](firewall-in-oracle-cloud.md) later.
+If you've chosen Ubuntu as your image, don't you'll need to follow the instruction in [Firewall in Oracle Cloud](firewall-in-oracle-cloud.md) later.
  
- ![Networking](setting-up-a-free-server-in-oracle-cloud-menu-networking.png)
+![Networking](setting-up-a-free-server-in-oracle-cloud-menu-networking.png)
  
 Select the vcn (that was created automatically).
  
- ![Networking](setting-up-a-free-server-in-oracle-cloud-networking-1.png)
+![Networking](setting-up-a-free-server-in-oracle-cloud-networking-1.png)
  
 And the subnet within.
 
@@ -117,12 +117,37 @@ Within the subnet is a “Default Security List”. Click on it and “Add Ingre
 Add an ingress rule that allows everything: Source CIDR is 0.0.0.0/0, protocol is “TCP” leave port range free.
 
 ![Networking](setting-up-a-free-server-in-oracle-cloud-networking-4.png)
- 
+
+The rules should now look like this:
+
+![Networking](setting-up-a-free-server-in-oracle-cloud-networking-4.png)
+
 ## Done (for now)
 
-You can login to your instance using your SSH key now. For Ubuntu you login as root, for Oracle Linux you'll use the user name opc.
+You now have a working instance with 150GB of block storage, but it needs to be connected in Linux, as well, and then mounted.
 
-## Debian
+## Login
 
-But I want Debian installed. You had no option to choose an ISO image anywhere when you created the instance, so now we resort to trickery.
+You can log in to your instance using your SSH key now. For Ubuntu you log in as root, for Oracle Linux you'll use the user name opc.
 
+Take the public IP address from your instance
+
+![Login](setting-up-a-free-server-in-oracle-cloud-login-1.png)
+
+and put it into the “Host Name” field in PuTTY:
+
+![Login](setting-up-a-free-server-in-oracle-cloud-login-2.png)
+
+Under “Connection”, “Data”, “Auto-login username” enter “opc” for Oracle Linux or “ubuntu” for Ubuntu Linux.
+
+![Login](setting-up-a-free-server-in-oracle-cloud-login-3.png)
+
+Under “Auth”, “Private key-file” browse and enter your SSH key, that you created under [Creating a SSH key](#creating-a-ssh-key) in OpenSSH format.
+
+![Login](setting-up-a-free-server-in-oracle-cloud-login-4.png)
+
+Now back to the “Session” section, enter a name and click “Save” to the right.
+
+![Login](setting-up-a-free-server-in-oracle-cloud-login-4.png)
+
+Now you can “Open” the connection to your server.
