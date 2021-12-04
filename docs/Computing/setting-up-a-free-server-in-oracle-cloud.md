@@ -68,7 +68,7 @@ Click “Create” and after a short waiting time your instance is provisioned a
 
 ![Create instance](setting-up-a-free-server-in-oracle-cloud-create-instance-5.png)
 
-## Attaching block storage
+## Creating block storage
 
 Your instance has got a boot volume (think: virtual hard disk) of 50 GB. You can change that value, but I keep it at the default value.
 
@@ -148,6 +148,25 @@ Under “Auth”, “Private key-file” browse and enter your SSH key, that you
 
 Now back to the “Session” section, enter a name and click “Save” to the right.
 
-![Login](setting-up-a-free-server-in-oracle-cloud-login-4.png)
+![Login](setting-up-a-free-server-in-oracle-cloud-login-5.png)
 
 Now you can “Open” the connection to your server.
+
+## Mounting block storage
+
+The 150 GB block volume you've created needs to be activated and mounted in Linux.
+
+Go back to your instance in the Oracle Cloud dashboard, and in the lower left select “Attached block volumes”.
+
+![Mounting block storage](setting-up-a-free-server-in-oracle-cloud-mount-block-volume-1.png)
+
+You will find your “bv150” volume there. Click ob the three dots to the right of the entry.
+
+![Mounting block storage](setting-up-a-free-server-in-oracle-cloud-mount-block-volume-2.png)
+
+Select “iSCSI commands & information”, expand the “Linux” part and copy the commands under “Connect”.
+
+Back to your PuTTY connection to your server. Log in and enter those commands.
+
+**TODO:** fdisk (probably /dev/sdb), create partition, format (mkfs.ext4), look up UUID with blkid,
+then enter into fstab with “defaults,_netdev,nofail 0 2”.
