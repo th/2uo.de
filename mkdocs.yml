@@ -4,7 +4,7 @@ site_author: Thomas Hühn
 site_url: https://www.2uo.de
 
 theme: 
-  name: readthedocs
+  name: material
   font: false
   language: en
   features:
