@@ -168,5 +168,8 @@ Select “iSCSI commands & information”, expand the “Linux” part and copy 
 
 Back to your PuTTY connection to your server. Log in and enter those commands.
 
-**TODO:** fdisk (probably /dev/sdb), create partition, format (mkfs.ext4), look up UUID with blkid,
+## Going further
+
+There are several steps I usually do, but those won't be documented here anytime soon:
+fdisk (probably /dev/sdb), create partition, format (mkfs.ext4), look up UUID with blkid,
 then enter into fstab with “defaults,_netdev,nofail 0 2”.
