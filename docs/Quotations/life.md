@@ -7,7 +7,7 @@
 !!! quote "[Captain Disillusion](https://youtu.be/5LI2nYhGhYM?t=533)"
     Love with your heart, use your head for everything else!
 
-!!! quote "[Margaret Thatcher](https://blogs.lse.ac.uk/politicsandpolicy/margaret-thatcher-and-the-rejection-of-consensus-a-rejection-of-democracy/)"
+!!! quote "[Margaret Thatcher](https://blogs.lse.ac.uk/politicsandpolicy/margaret-thatcher-and-the-rejection-of-consensus-a-rejection-of-democracy/) on consensus"
     The process of abandoning all beliefs, principles, values, and policies in search of something in which no one believes, but to which no one objects; the process of avoiding the very issues that have to be solved, merely because you cannot get agreement on the way ahead. What great cause would have been fought and won under the banner: ‘I stand for consensus?’
 
 !!! quote "[https://www.ksta.de/kultur/buehne-yoga-nach-dem-massaker-28994710?cb=1612715214845](https://www.ksta.de/kultur/buehne-yoga-nach-dem-massaker-28994710?cb=1612715214845)"
@@ -81,3 +81,13 @@
 
 !!! quote "Bejamin Disraeli, quoted after Library of Congress: Respectfully quoted"
     The secret of success is constancy of purpose.
+
+!!! quote "Der Kleine Brockhaus, 1925"
+    Feminismus, weibisches Wesen bei Männern; auch Frauenbewegung.
+    (Translation: Feminism, effeminate nature in men; also: women's movement.)
+
+!!! quote "Der Kleine Brockhaus, 1925"
+    Frauenfrage, Probleme, die sich aus der Stellung der Frau zur Gesellschaft, Wirtschaft und Wissenschaft jeder Zeit ergeben.
+    Vorkämpfer für die den Leistungen und Möglichkeiten der Frauen entsprechenden Rechte im 19. und 20. Jh. \[…\]
+    (Translation: Question of women's rights, problems that result from women's postition in society, economy and science of the times.
+    Campaigner for rights corresponding to women's accomplishments and potentialities in the 18th and 20th centuries.)
