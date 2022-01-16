@@ -7,7 +7,7 @@ Even those who would acknowledge that they should have read it already, if only 
 If a complete redaing is out of the question (and I don't want to deter anyone, but practice shows that this is only interesting
 to a small part of the population), the question is: how to approach it.
 
-A quite incomplete, but even more fascinating possibility is this book, _“3: 16 Bible Texts Illuminated”_ by Donald E. Knuth.
+A quite incomplete, but even more fascinating possibility is this book, _“3:16 Bible Texts Illuminated”_ by Donald E. Knuth.
 
 Professor Knuth may be the most famous computer scientist, with innumerate profound contributions to his field, as to neighbouring fields.
 And he is a devout Christian.
