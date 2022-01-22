@@ -72,4 +72,4 @@ Apart from this introduction, just a few notes:
 * p. 293: Mode locking: there was also something in McElreath, Statistical Rethinking
 * p. 306: John Hubbard considered chaos a poor name, because it implied randomness
 * p. 308: entropy hard to pin down as a measure of disorder
-* p. 314: Koseph Ford: “Evolution is chaos with feedback”
+* p. 314: Joseph Ford: “Evolution is chaos with feedback”
