@@ -16,9 +16,9 @@
 !!! quote "[Richard Guindon](https://web.archive.org/web/20160731175038/http://www.guindoncartoons.com/userfiles/1231656389.jpg)"
     Writing is just nature's way of letting you know how sloppy your thinking is.
     
-!!! quote "[leslie Lamport](https://lamport.azurewebsites.net/tla/book-21-07-04.pdf)"
+!!! quote "[Leslie Lamport](https://lamport.azurewebsites.net/tla/book-21-07-04.pdf)"
     Mathematics is nature's way of letting you know how sloppy your writing is.
 
-!!! quote "[leslie Lamport](https://lamport.azurewebsites.net/tla/book-21-07-04.pdf)"
+!!! quote "[Leslie Lamport](https://lamport.azurewebsites.net/tla/book-21-07-04.pdf)"
     Mathematics is nature's way of letting you know how sloppy your writing is.
     Formal mathematics is nature’s way of letting you know how sloppy your mathematics is.
