@@ -20,5 +20,4 @@
     Mathematics is nature's way of letting you know how sloppy your writing is.
 
 !!! quote "[Leslie Lamport](https://lamport.azurewebsites.net/tla/book-21-07-04.pdf)"
-    Mathematics is nature's way of letting you know how sloppy your writing is.
     Formal mathematics is nature’s way of letting you know how sloppy your mathematics is.
