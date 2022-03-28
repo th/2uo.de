@@ -44,7 +44,7 @@ Apart from this introduction, just a few notes:
 * p. 108: no cell in the human body is more than three or four cells away from a blood vessel, even though blood vessels take up
           less than five percent of the space in the body
 * p. 110: DNA cannot possibly specify all the blood vessels, but it can specify a repeated process of bifurcation, which is fractal
-* p. 113: A part of physics that's dead stays dead(there are reasons why it's dead/wrong).
+* p. 113: A part of physics that's dead stays dead (there are reasons why it's dead/wrong).
           A part of mathematics falling into obscurity can rise again.
 * p. 117: art that satisfies lacks scale, contains important elements at all sizes
 * p. 122: practical interest in turbulence is usually: make it go away
