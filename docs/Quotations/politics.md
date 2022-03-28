@@ -54,4 +54,4 @@
     Now I protest against that counterfeit logic which concludes that, because I do not want a black woman for a *slave* I must necessarily want her for a *wife*. I need not have her for either. I can just leave her alone.
 
 !!! quote "President John F. Kennedy, 1961, quoted after Library of Congress: Respectfully quoted"
-    And we must face the fact that the United States is neither omnipotent or omniscient—that we are only 6 persent of mankind—that we cannot right every wrong or reverse every adversity—and that therefore there cannot be an American solution to every world problem.
+    And we must face the fact that the United States is neither omnipotent or omniscient—that we are only 6 percent of mankind—that we cannot right every wrong or reverse every adversity—and that therefore there cannot be an American solution to every world problem.
