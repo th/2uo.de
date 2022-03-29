@@ -124,7 +124,7 @@ A new function f(μ,σ) now combines the production and loss function, by multip
 !!! note "By the way"
     I would think you need a bit more machinery, like a real convolution, wouldn't you? But Deming shows a multiplication, unless I have misunderstood the notation.
 
-[Production function and Loss function](deming-centered.jpg)
+![Production function and Loss function](deming-centered.jpg)
 
  For usual functions P and L (and especially in this example) it's obvious: μ should be where the loss function has its minimum. If that is the case, most of the widgets will not incur much loss, and those widgets that incur loss are few.
 
