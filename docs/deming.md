@@ -107,7 +107,7 @@ The production process can be modelled using a production function P(μ,σ), whi
 
  Why a normal distribution? Because in practice it seems to work well (the Central Limit Theorem tells us that under rather lax conditions, you see approximately a normal distribution). And because there are “nice” theorems about it, so you can calculate practical things with it.
 
-The x axis shows a (continuous) measurement, maybe the widget's length or its weight. This length or weight (or whatever we measure) is what the production process “is supposed to do”, with deviations being random errors.
+The x axis shows a (continuous) measurement, maybe the widget's length or its weight. At x euqls zero is what the production process “is supposed to do”, with deviations being random errors.
 
 The y axis gives us the amount of widgets made for any measurement on the x axis.
 
@@ -141,7 +141,7 @@ Reducing the variance is more concerned with maintenance. Does the machine need 
 Let's talk about errors. There are two fundamentally different categories of errors, and Deming is adamant about investigating what category an observed error belongs to: there are *special causes of variation* and *common causes of variation.*
 
 !!! note "By the way"
-    If you're working with safety-related systems this nomenclature may throw you off for a moment. “Common causes” in this sense are not about errors with a common cause, like a single radiomagnetic pulse coupling into two different wires. Here, “common” simply means “regular” or “not special”.
+    If you're working with safety-related systems this nomenclature may throw you off for a moment. “Common causes” in this sense are not about errors with a common cause, like a single electromagnetic pulse coupling into two different wires. Here, “common” simply means “regular” or “not special”.
 
  Why is it important what category an error belongs to? Because they must be treated differently!
 
