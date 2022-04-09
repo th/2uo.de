@@ -83,7 +83,9 @@ Plan – Do – Check – Act. A staple of project management. Also called the P
 
  Deming himself always called that concept the Shewhart cycle.
 
-But Deming also changed the Shewhart cycle in one small respect. He struck out “Check” and wrote “Study”. It seems inconsequential, but Deming insisted on that. To him, “check” sounded like “inspect”. **Deming hates inspection.** With a passion. Read his books, he goes on and on about the evils of inspection. 
+But Deming also changed the Shewhart cycle in one small respect. He struck out “Check” and wrote “Study”. It seems inconsequential, but Deming insisted on that. To him, “check” sounded like “inspect”.
+
+**Deming hates inspection.** With a passion. Read his books, he goes on and on about the evils of inspection. 
 
 !!! quote
     You can not inspect quality into a product.
