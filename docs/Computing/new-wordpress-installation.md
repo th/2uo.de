@@ -63,7 +63,7 @@ acme.sh --install-cert -d www.thomas-huehn.de --key-file /etc/cert-files/key-www
  systemctl reload nginx
  ```
  
- Then fill in actual root sextion, in case of Wordpress:
+ Then fill in actual root section, in case of Wordpress:
  
 ``` nginx
 root /var/www/thomas-huehn/html;
