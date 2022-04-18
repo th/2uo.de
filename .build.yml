@@ -17,4 +17,4 @@ tasks:
 - deploy: |
     cd www.2uo.de
     ln -sf ~/.ssh/b3dc0e2a-38b9-4e85-8514-2f01ed189aec ~/.ssh/id_rsa
-    rsync --rsh="ssh -o StrictHostKeyChecking=no" -rzP site/ sourcehut@94.130.150.135:/www.2uo.de/
+    rsync --rsh="ssh -o StrictHostKeyChecking=no" --delete -rzP site/ sourcehut@94.130.150.135:/www.2uo.de/
