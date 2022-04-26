@@ -207,7 +207,7 @@ So it is crucial to treat common errors with process improvement, and special er
 
 Common causes and special causes can be distinguished mathematically. The basis for that distinction is the Control chart (also called Shewhart chart or process-behaviour chart).
 
-The y axis depicts a continuous measurement, The target line corresponds to the ideal. There is an upper control limit UCL and a lower control limit LCL. Both sit at +3σ and -3σ, respectively.
+The y axis depicts a continuous measurement, the target line corresponds to the ideal. There is an upper control limit UCL and a lower control limit LCL. Both sit at +3σ and -3σ, respectively.
 
 ![Control chart](deming-controlchart.jpg)
 
