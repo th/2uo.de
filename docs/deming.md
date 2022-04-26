@@ -109,7 +109,7 @@ The production process can be modelled using a production function P(μ,σ), whi
 
  Why a normal distribution? Because in practice it seems to work well (the Central Limit Theorem tells us that under rather lax conditions, you see approximately a normal distribution). And because there are “nice” theorems about it, so you can calculate practical things with it.
 
-The x axis shows a (continuous) measurement, maybe the widget's length or its weight. At x euqls zero is what the production process “is supposed to do”, with deviations being random errors.
+The x axis shows a (continuous) measurement, maybe the widget's length or its weight. At x equals zero is what the production process “is supposed to do”, with deviations being random errors.
 
 The y axis gives us the amount of widgets made for any measurement on the x axis.
 
@@ -207,7 +207,7 @@ So it is crucial to treat common errors with process improvement, and special er
 
 Common causes and special causes can be distinguished mathematically. The basis for that distinction is the Control chart (also called Shewhart chart or process-behaviour chart).
 
-The y axis depicts a continuous measurement, 0 corresponds to the ideal. There is an upper control limit UCL and a lower control limit LCL. Both sit at +3σ and -3σ, respectively.
+The y axis depicts a continuous measurement, The target line corresponds to the ideal. There is an upper control limit UCL and a lower control limit LCL. Both sit at +3σ and -3σ, respectively.
 
 ![Control chart](deming-controlchart.jpg)
 
