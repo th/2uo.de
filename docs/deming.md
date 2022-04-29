@@ -195,7 +195,7 @@ The resulting pattern looks a bit like a propeller, the target point oscillates 
 
 ![The resulting pattern looks a bit like a propeller, the target point oscillates between two sectors, and the whole experiment diverges, that is, the error gets larger and larger.](deming-strategy3.jpg)
 
-The fourth strategy looks equally wild. You just target the last hit point, so T' = H. Why would you do that? You wouldn't, of course, in this experiment. But it is pretty much the game of Chinese whispers. You aim for what the last person told you. Or, in other words, this is teaching someone, without a common and stable textbook. When one machine operator teaches his successor, the successor gets most of it, but not quite all. When this operator now teaches his successor, and the original operator is no longer around, your training diverges, just as those balls do here.
+The fourth strategy looks equally wild. You just target the last hit point, so T' = H. Why would you do that? You wouldn't, of course, in this experiment. But it is pretty much the game of telephone. You aim for what the last person told you. Or, in other words, this is teaching someone, without a common and stable textbook. When one machine operator teaches his successor, the successor gets most of it, but not quite all. When this operator now teaches his successor, and the original operator is no longer around, your training diverges, just as those balls do here.
 
 And the resulting pattern looks just like it: it diverges fast, and generally in one direction, there isn't much zig-zagging around:
 
