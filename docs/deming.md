@@ -203,7 +203,7 @@ And the resulting pattern looks just like it: it diverges fast, and generally in
 
 So it is crucial to treat common errors with process improvement, and special errors with, well, special action. But how do you distinguish between those two kinds? It wouldn't help to know it only in hindsight, from the success or failure of the treatment.
 
-## Distinguishing betweens the types of errors
+## Distinguishing between the types of errors
 
 Common causes and special causes can be distinguished mathematically. The basis for that distinction is the Control chart (also called Shewhart chart or process-behaviour chart).
 
