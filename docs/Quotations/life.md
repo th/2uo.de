@@ -92,4 +92,4 @@
     Vorkämpfer für die den Leistungen und Möglichkeiten der Frauen entsprechenden Rechte im 19. und 20. Jh. […]
     
     (Translation: Question of women's rights, problems that result from women's postition in society, economy and science of the times.
-    Campaigner for rights corresponding to women's accomplishments and potentialities in the 18th and 20th centuries.)
+    Campaigner for rights corresponding to women's accomplishments and potentialities in the 19th and 20th centuries.)
