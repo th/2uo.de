@@ -1,7 +1,7 @@
 # Setting up a free server in Oracle Cloud
 
 Oracle Cloud offers a free tier that includes a beefy ARM64 virtual server. with lots of RAM.
-If you forgo the two “micro instances” you can have an Ampere (ARM64) virtuals server with 4 cores and 24 GB of RAM for free.
+If you forgo the two “micro instances” you can have an Ampere (ARM64) virtual server with 4 cores and 24 GB of RAM for free.
 
 ## Creating the instance
 
