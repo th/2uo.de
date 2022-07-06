@@ -33,8 +33,8 @@ I stumbled upon _Chaos_ by James Gleick watching Robert Sapolsky's [lecture seri
     
 I needed to have this. I bought a cheap paperback, that has bad printing quality, some letters missing, and bad editorial oversight,
 because the index sometimes points to wrong pages (probably where the material was in the hardcover).
-Also, in the beginning around page 25, there's evidently some text missing, because the words last on one page so not possibly fit together
-with the words first on the next page to construct a grammatical and meaningful sentence.
+Also, in the beginning around page 25, there's evidently some text missing, because the last words on one page did not possibly fit together
+with the first words on the next page to construct a grammatical and meaningful sentence.
 
 Apart from this introduction, just a few notes:
 
