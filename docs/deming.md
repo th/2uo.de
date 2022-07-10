@@ -79,7 +79,7 @@ Much of what Deming is known for already existed in some form or another with Sh
 
 Plan – Do – Check – Act. A staple of project management. Also called the PDCA cycle, the Scrum sprint or – wait for it – the Deming cycle.
 
-![Plan – Do – Check – Act. A staple of project management. Also called the PDCA cycle, the Scrum sprint or – wait for it – the Deming cycle.](deming-shewhartcycle.jpg)
+![Plan – Do – Check – Act. A staple of project management. Also called the PDCA cycle, the Scrum sprint or – wait for it – the Deming cycle.](deming-cycle-squoosh.png)
 
  Deming himself always called that concept the Shewhart cycle.
 
