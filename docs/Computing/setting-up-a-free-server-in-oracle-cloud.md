@@ -98,7 +98,7 @@ Select your newly created block volume and click “Attach”.
  
 On to “Networking”! Oracle has a default access list that blocks some traffic that you want to get rid of.
  
-If you've chosen Ubuntu as your image, don't you'll need to follow the instruction in [Firewall in Oracle Cloud](firewall-in-oracle-cloud.md) later.
+If you've chosen Ubuntu as your image, you'll need to follow the instructions in [Firewall in Oracle Cloud](firewall-in-oracle-cloud.md) later.
  
 ![Networking](setting-up-a-free-server-in-oracle-cloud-menu-networking.png)
  
