@@ -9,6 +9,11 @@ theme:
   language: en
   features:
         - navigation.top
+        - navigation.instant
+        - navigation.tracking
+        - navigation.sections
+        - navigation.prune
+        - toc.follow
 
 plugins:
     - search:
