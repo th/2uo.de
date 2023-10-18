@@ -31,7 +31,7 @@ I stumbled upon _Chaos_ by James Gleick watching Robert Sapolsky's [lecture seri
     Because, along with Baby Beluga, it's had the greatest influence on my life.
     I found this to be the most influential book in my thinking about science since college. So that is a sign.
     
-I needed to have this. I bought a cheap paperback, that has bad printing quality, some letters missing, and bad editorial oversight,
+I needed to have this. I bought a cheap paperback that has bad printing quality, some letters missing, and bad editorial oversight,
 because the index sometimes points to wrong pages (probably where the material was in the hardcover).
 Also, in the beginning around page 25, there's evidently some text missing, because the last words on one page did not possibly fit together
 with the first words on the next page to construct a grammatical and meaningful sentence.
