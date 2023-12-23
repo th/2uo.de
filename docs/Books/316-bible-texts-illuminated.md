@@ -21,7 +21,7 @@ So far nothing unusual, the time constraints of a Bible course already forces th
 But he didn't just select his favourite verses. or the best known verses, or the central verses of the big books (the Evangelists, for example).
 No, he let chance govern the selection. He took random samples, respecting the higher-level groupings (the books).
 
-THe Bible contains about thirty thousand verses. A selection of sixty of them should give interesting and more or less representative insight
+The Bible contains about thirty thousand verses. A selection of sixty of them should give interesting and more or less representative insight
 into the whole. Sixty totally random verses would have been fine, but sixty verses, one of (almost) each book, should be even better,
 because in this way every book (and thus every author) should be represented.
 
