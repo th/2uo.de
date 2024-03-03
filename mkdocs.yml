@@ -3,17 +3,29 @@ site_description: My collection of things I've learned.
 site_author: Thomas Hühn
 site_url: https://www.2uo.de
 
+nav:
+    - Home: index.md
+    - Essays:
+        - Myths about /dev/urandom: myths-about-urandom.md
+        - Statistical Process Control after W. Edwards Deming: deming.md
+    - Books:
+        - Chaos: Books/chaos.md
+
+
 theme: 
     name: material
     font: false
     language: en
     features:
+        - navigation.tabs
+        - navigation.tabs.sticky
         - navigation.top
+        - navigation.sections
         - navigation.instant
         - navigation.instant.progress
         - navigation.tracking
-        - navigation.sections
         - navigation.prune
+        - navigation.path
         - toc.follow
 
     palette:
@@ -41,6 +53,7 @@ theme:
 plugins:
     - search:
         lang: en
+    - social:
     - minify:
         minify_html: true
         minify_js: true
