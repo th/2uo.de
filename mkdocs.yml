@@ -3,13 +3,13 @@ site_description: My collection of things I've learned.
 site_author: Thomas Hühn
 site_url: https://www.2uo.de
 
-nav:
-    - Home: index.md
-    - Essays:
-        - Myths about /dev/urandom: myths-about-urandom.md
-        - Statistical Process Control after W. Edwards Deming: deming.md
-    - Books:
-        - Chaos: Books/chaos.md
+#nav:
+#    - Home: index.md
+#    - Essays:
+#        - Myths about /dev/urandom: myths-about-urandom.md
+#        - Statistical Process Control after W. Edwards Deming: deming.md
+#    - Books:
+#        - Chaos: Books/chaos.md
 
 
 theme: 
