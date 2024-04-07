@@ -24,7 +24,6 @@ theme:
         - navigation.instant
         - navigation.instant.progress
         - navigation.tracking
-        - navigation.prune
         - navigation.path
         - toc.follow
 
