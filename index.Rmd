@@ -1,0 +1,27 @@
+---
+title: "Thomas Hühn"
+image: "th.jpg"
+links:
+  - label: Email
+    url: "mailto:mail@thomas-huehn.com"
+  - label: German website
+    url: "https://www.thomas-huehn.de"
+  - label: English website
+    url: "https://www.thomas-huehn.com"
+  - label: GitHub
+    url: "https://github.com/th/"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/thomas-huehn"
+
+output:
+  postcards::jolla_blue
+---
+Born in Tübingen, I grew up around Böblingen and Sindelfingen. I now live in Minden (Westphalia).
+
+I have a diploma in Computer Science, with a minor in linguistics, and have worked as an embedded software developer for safety-related systems ever since.
+
+For several years I’ve also worked as an Open Source Compliance Officer. Recently that shifted to OT product cybersecurity, applying a different perspective to many of the same issues.
+
+Over the last few years I've spent evenings and weekends studying Education Sciences, earning a Bachelor of Arts degree. My specializations were media communication and vocational learning.
+
+And I own a check from Donald Knuth. That's an inside-CS brag.
