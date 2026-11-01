@@ -18,10 +18,10 @@ output:
 ---
 Born in Tübingen, I grew up around Böblingen and Sindelfingen. I now live in Minden (Westphalia).
 
-I have a diploma in Computer Science, with a minor in linguistics, and have worked as an embedded software developer for safety-related systems ever since.
+I have a diploma in Computer Science, with a minor in linguistics, and worked as an embedded software developer for safety-related products for almost twenty years. Today I'm working in cybersecurity, both product security management and vulnerability management.
 
-For several years I’ve also worked as an Open Source Compliance Officer. Recently that shifted to OT product cybersecurity, applying a different perspective to many of the same issues.
+For several years I’ve also been working as an Open Source Compliance Officer.
 
-Over the last few years I've spent evenings and weekends studying Education Sciences, earning a Bachelor of Arts degree. My specializations were media communication and vocational learning.
+A few years ago I spent many evenings and weekends studying Education Sciences, earning a Bachelor of Arts degree. My specializations were media communication and vocational learning.
 
 And I own a check from Donald Knuth. That's an inside-CS brag.
